@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/UI/UI.uasset",
 				"C:/Users/lukeg/OneDrive/Desktop/Tutti i file/Unreal projects/BubbleSample/Content/Blueprint/BP_MainCharacter.uasset",
 				"C:/Users/lukeg/OneDrive/Desktop/Tutti i file/Unreal projects/BubbleSample/Content/InputActions/IM_Controls.uasset",
 				"C:/Users/lukeg/OneDrive/Desktop/Tutti i file/Unreal projects/BubbleSample/Content/InputActions/IA_Move.uasset",
