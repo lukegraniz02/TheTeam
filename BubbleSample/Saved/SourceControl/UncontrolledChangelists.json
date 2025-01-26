@@ -6,7 +6,10 @@
 			"description": "Changelist non controllate predefinite",
 			"files": [
 				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/Blueprint/Characters/BP_MainCharacter.uasset",
-				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/UI/UI/Vite_giocatori.uasset"
+				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/UI/UI/Vite_giocatori.uasset",
+				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/InputActions/IM_Controls.uasset",
+				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/Mainmenulevel.umap",
+				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/UI/UI/Mainmenu.uasset"
 			]
 		}
 	]
