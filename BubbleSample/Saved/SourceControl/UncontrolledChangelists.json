@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Changelist non controllate predefinite",
+			"files": [
+				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/Blueprint/Characters/BP_MainCharacter.uasset",
+				"/Users/paolovolpe/Documents/GitHub/Asa_Game/TheTeam/BubbleSample/Content/UI/UI/Vite_giocatori.uasset"
+			]
+		}
+	]
+}
